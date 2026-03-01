@@ -19,12 +19,12 @@
   },
   "homepage": "https://github.com/kenzanlabs/kubernetes-ci-cd#readme",
   "dependencies": {
-    "async": "2.2.0",
-    "body-parser": "^1.18.3",
+    "async": "2.6.4",
+    "body-parser": "^1.20.3",
     "cors": "2.8.3",
-    "express": "^4.16.4",
+    "express": "^4.22.0",
     "node-etcd": "^7.0.0",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "socket.io": "1.7.3"
   }
 }
